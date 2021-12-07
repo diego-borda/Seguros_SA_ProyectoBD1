@@ -1,0 +1,352 @@
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmLogin.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmPrincipal.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.Properties.Resources.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmAsegurado.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmGasto.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmHospital.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmMedico.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmPoliza.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmZonas.resources
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\SegurosSA.View.FrmZona_Hospital.resources
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\View2.exe.config
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\View2.exe
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\View2.pdb
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\Data.dll
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\Model.dll
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\Data.pdb
+C:\Users\Usuario\source\repos\View\View2\bin\Debug\Model.pdb
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.csproj.CopyComplete
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.exe
+C:\Users\Usuario\source\repos\View\View2\obj\Debug\View2.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\View2.exe.config
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\View2.exe
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\View2.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Model.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Model.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmAsegurado.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmGasto.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmHospital.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmMedico.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmPoliza.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmZonas.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmZona_Hospital.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmLogin.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.FrmPrincipal.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Properties.Resources.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.exe
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\snappy32.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\snappy64.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\libzstd.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\mongocrypt.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Seguridad.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Seguridad.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogHosp.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogZona.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Seguridad.FrmEditarPerfil.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Reportes.RecaudacionHospitalizacion.FrmRHospitalizacion.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\RdlCompile.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\RdlCompile.compiled
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Reportes.RecaudacionConsultas.FrmReporteConsulta.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Reportes.RecaudacionPoliza.FrmReportePoliza.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Reportes.ReporteAsegurado.FrmReporteAsegurado.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Seguridad.FrmSeguridad.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogAsegurado.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogContrato.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogMed.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.FrmConsultas.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogAsegCateg.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmContrato.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogPoliza.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDetalleHospitalizacion.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmHospitalizacion.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogGastos.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogVerDetalle.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.frmDialogZonaHospital_Hospital.resources
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\View2\obj\Debug\View2.Servicios.FrmHospitalizacion2.resources
+F:\SeguroSAvFinal\View2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SeguroSAvFinal\View2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SeguroSAvFinal\View2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SeguroSAvFinal\View2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SeguroSAvFinal\View2\bin\Debug\snappy32.dll
+F:\SeguroSAvFinal\View2\bin\Debug\snappy64.dll
+F:\SeguroSAvFinal\View2\bin\Debug\libzstd.dll
+F:\SeguroSAvFinal\View2\bin\Debug\mongocrypt.dll
+F:\SeguroSAvFinal\View2\bin\Debug\View2.exe.config
+F:\SeguroSAvFinal\View2\bin\Debug\View2.exe
+F:\SeguroSAvFinal\View2\bin\Debug\View2.pdb
+F:\SeguroSAvFinal\View2\bin\Debug\Data.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Model.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Seguridad.dll
+F:\SeguroSAvFinal\View2\bin\Debug\EnvDTE.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\SeguroSAvFinal\View2\bin\Debug\stdole.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Microsoft.MSXML.dll
+F:\SeguroSAvFinal\View2\bin\Debug\Data.pdb
+F:\SeguroSAvFinal\View2\bin\Debug\Model.pdb
+F:\SeguroSAvFinal\View2\bin\Debug\Seguridad.pdb
+F:\SeguroSAvFinal\View2\bin\Debug\EnvDTE.xml
+F:\SeguroSAvFinal\View2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\View2\obj\Debug\View2.csproj.AssemblyReference.cache
+F:\SeguroSAvFinal\View2\obj\Debug\View2.csproj.SuggestedBindingRedirects.cache
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmAsegurado.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmGasto.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmHospital.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmMedico.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmPoliza.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmZonas.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmZona_Hospital.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmLogin.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.FrmPrincipal.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Properties.Resources.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Reportes.RecaudacionConsultas.FrmReporteConsulta.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Reportes.RecaudacionHospitalizacion.FrmRHospitalizacion.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Reportes.RecaudacionPoliza.FrmReportePoliza.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Reportes.ReporteAsegurado.FrmReporteAsegurado.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Seguridad.FrmEditarPerfil.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Seguridad.FrmSeguridad.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.FrmConsultas.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmContrato.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDetalleHospitalizacion.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.FrmHospitalizacion2.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogAsegCateg.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogAsegurado.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogContrato.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogGastos.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogHosp.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogMed.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogPoliza.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogVerDetalle.resources
+F:\SeguroSAvFinal\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogZona.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.Servicios.frmDialogZonaHospital_Hospital.resources
+F:\SeguroSAvFinal\View2\obj\Debug\View2.csproj.GenerateResource.cache
+F:\SeguroSAvFinal\View2\obj\Debug\View2.csproj.CoreCompileInputs.cache
+F:\SeguroSAvFinal\View2\obj\Debug\View2.csproj.CopyComplete
+F:\SeguroSAvFinal\View2\obj\Debug\View2.exe
+F:\SeguroSAvFinal\View2\obj\Debug\View2.pdb
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\snappy32.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\snappy64.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\libzstd.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\mongocrypt.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\View2.exe.config
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\View2.exe
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\View2.pdb
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Data.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Model.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Seguridad.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\EnvDTE.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\stdole.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Microsoft.MSXML.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Data.pdb
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Model.pdb
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\Seguridad.pdb
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\EnvDTE.xml
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.csproj.AssemblyReference.cache
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.csproj.SuggestedBindingRedirects.cache
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmAsegurado.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmGasto.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmHospital.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmMedico.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmPoliza.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmZonas.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmZona_Hospital.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmLogin.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.FrmPrincipal.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Properties.Resources.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Reportes.RecaudacionConsultas.FrmReporteConsulta.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Reportes.RecaudacionHospitalizacion.FrmRHospitalizacion.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Reportes.RecaudacionPoliza.FrmReportePoliza.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Reportes.ReporteAsegurado.FrmReporteAsegurado.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Seguridad.FrmEditarPerfil.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Seguridad.FrmSeguridad.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.FrmConsultas.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmContrato.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDetalleHospitalizacion.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.FrmHospitalizacion2.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogAsegCateg.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogAsegurado.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogContrato.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogGastos.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogHosp.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogMed.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogPoliza.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogVerDetalle.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\SegurosSA.View.ViewServicios.frmDialogZona.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.Servicios.frmDialogZonaHospital_Hospital.resources
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.csproj.GenerateResource.cache
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.csproj.CoreCompileInputs.cache
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.csproj.CopyComplete
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.exe
+F:\SeguroSAvFinal(Completo)\View2\obj\Debug\View2.pdb

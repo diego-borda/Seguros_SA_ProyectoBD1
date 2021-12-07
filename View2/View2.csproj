@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{192C6395-9CA6-461B-9DB0-4D0D1CCDDEFD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>View2</RootNamespace>
+    <AssemblyName>View2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1484.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Categoria\FrmAsegurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmAsegurado.designer.cs">
+      <DependentUpon>FrmAsegurado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmGasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmGasto.designer.cs">
+      <DependentUpon>FrmGasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmHospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmHospital.designer.cs">
+      <DependentUpon>FrmHospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmMedico.designer.cs">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmPoliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmPoliza.designer.cs">
+      <DependentUpon>FrmPoliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmZonas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmZonas.designer.cs">
+      <DependentUpon>FrmZonas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categoria\FrmZona_Hospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categoria\FrmZona_Hospital.designer.cs">
+      <DependentUpon>FrmZona_Hospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPrincipal.designer.cs">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionConsultas\DataConsultas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataConsultas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionConsultas\FrmReporteConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionConsultas\FrmReporteConsulta.Designer.cs">
+      <DependentUpon>FrmReporteConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionHospitalizacion\FrmRHospitalizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionHospitalizacion\FrmRHospitalizacion.Designer.cs">
+      <DependentUpon>FrmRHospitalizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionHospitalizacion\SetHospitalizacion.cs">
+      <DependentUpon>SetHospitalizacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionHospitalizacion\SetHospitalizacion.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SetHospitalizacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionPoliza\DataPoliza.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataPoliza.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionPoliza\FrmReportePoliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\RecaudacionPoliza\FrmReportePoliza.Designer.cs">
+      <DependentUpon>FrmReportePoliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteAsegurado\DataAsegurado.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataAsegurado.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reportes\ReporteAsegurado\FrmReporteAsegurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reportes\ReporteAsegurado\FrmReporteAsegurado.Designer.cs">
+      <DependentUpon>FrmReporteAsegurado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\FrmEditarPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\FrmEditarPerfil.Designer.cs">
+      <DependentUpon>FrmEditarPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Seguridad\FrmSeguridad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Seguridad\FrmSeguridad.Designer.cs">
+      <DependentUpon>FrmSeguridad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\FrmConsultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\FrmConsultas.Designer.cs">
+      <DependentUpon>FrmConsultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\frmContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\frmContrato.designer.cs">
+      <DependentUpon>frmContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\frmDetalleHospitalizacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\frmDetalleHospitalizacion.designer.cs">
+      <DependentUpon>frmDetalleHospitalizacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\FrmHospitalizacion2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\FrmHospitalizacion2.Designer.cs">
+      <DependentUpon>FrmHospitalizacion2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogAsegCateg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogAsegCateg.designer.cs">
+      <DependentUpon>frmDialogAsegCateg.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogAsegurado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogAsegurado.Designer.cs">
+      <DependentUpon>frmDialogAsegurado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogContrato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogContrato.Designer.cs">
+      <DependentUpon>frmDialogContrato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogGastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogGastos.designer.cs">
+      <DependentUpon>frmDialogGastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogHosp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogHosp.designer.cs">
+      <DependentUpon>frmDialogHosp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogMed.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogMed.designer.cs">
+      <DependentUpon>frmDialogMed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogPoliza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogPoliza.designer.cs">
+      <DependentUpon>frmDialogPoliza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogVerDetalle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogVerDetalle.designer.cs">
+      <DependentUpon>frmDialogVerDetalle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogZona.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogZona.designer.cs">
+      <DependentUpon>frmDialogZona.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogZonaHospital_Hospital.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Secundarios\frmDialogZonaHospital_Hospital.designer.cs">
+      <DependentUpon>frmDialogZonaHospital_Hospital.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="Categoria\FrmAsegurado.resx">
+      <DependentUpon>FrmAsegurado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmGasto.resx">
+      <DependentUpon>FrmGasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmHospital.resx">
+      <DependentUpon>FrmHospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmMedico.resx">
+      <DependentUpon>FrmMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmPoliza.resx">
+      <DependentUpon>FrmPoliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmZonas.resx">
+      <DependentUpon>FrmZonas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Categoria\FrmZona_Hospital.resx">
+      <DependentUpon>FrmZona_Hospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPrincipal.resx">
+      <DependentUpon>FrmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RecaudacionConsultas\FrmReporteConsulta.resx">
+      <DependentUpon>FrmReporteConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RecaudacionConsultas\RConsultas.rdlc" />
+    <EmbeddedResource Include="Reportes\RecaudacionHospitalizacion\FrmRHospitalizacion.resx">
+      <DependentUpon>FrmRHospitalizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RecaudacionHospitalizacion\RHospitalizacion.rdlc" />
+    <EmbeddedResource Include="Reportes\RecaudacionPoliza\FrmReportePoliza.resx">
+      <DependentUpon>FrmReportePoliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\RecaudacionPoliza\RPoliza.rdlc" />
+    <EmbeddedResource Include="Reportes\ReporteAsegurado\FrmReporteAsegurado.resx">
+      <DependentUpon>FrmReporteAsegurado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes\ReporteAsegurado\RAsegurado.rdlc" />
+    <EmbeddedResource Include="Seguridad\FrmEditarPerfil.resx">
+      <DependentUpon>FrmEditarPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Seguridad\FrmSeguridad.resx">
+      <DependentUpon>FrmSeguridad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\FrmConsultas.resx">
+      <DependentUpon>FrmConsultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\frmContrato.resx">
+      <DependentUpon>frmContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\frmDetalleHospitalizacion.resx">
+      <DependentUpon>frmDetalleHospitalizacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\FrmHospitalizacion2.resx">
+      <DependentUpon>FrmHospitalizacion2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogAsegCateg.resx">
+      <DependentUpon>frmDialogAsegCateg.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogAsegurado.resx">
+      <DependentUpon>frmDialogAsegurado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogContrato.resx">
+      <DependentUpon>frmDialogContrato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogGastos.resx">
+      <DependentUpon>frmDialogGastos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogHosp.resx">
+      <DependentUpon>frmDialogHosp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogMed.resx">
+      <DependentUpon>frmDialogMed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogPoliza.resx">
+      <DependentUpon>frmDialogPoliza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogVerDetalle.resx">
+      <DependentUpon>frmDialogVerDetalle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogZona.resx">
+      <DependentUpon>frmDialogZona.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Secundarios\frmDialogZonaHospital_Hospital.resx">
+      <DependentUpon>frmDialogZonaHospital_Hospital.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Reportes\RecaudacionConsultas\DataConsultas.xsc">
+      <DependentUpon>DataConsultas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RecaudacionConsultas\DataConsultas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataConsultas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RecaudacionConsultas\DataConsultas.xss">
+      <DependentUpon>DataConsultas.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RecaudacionHospitalizacion\SetHospitalizacion.xsc">
+      <DependentUpon>SetHospitalizacion.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RecaudacionHospitalizacion\SetHospitalizacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SetHospitalizacion.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RecaudacionHospitalizacion\SetHospitalizacion.xss">
+      <DependentUpon>SetHospitalizacion.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RecaudacionPoliza\DataPoliza.xsc">
+      <DependentUpon>DataPoliza.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\RecaudacionPoliza\DataPoliza.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataPoliza.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\RecaudacionPoliza\DataPoliza.xss">
+      <DependentUpon>DataPoliza.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ReporteAsegurado\DataAsegurado.xsc">
+      <DependentUpon>DataAsegurado.xsd</DependentUpon>
+    </None>
+    <None Include="Reportes\ReporteAsegurado\DataAsegurado.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataAsegurado.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Reportes\ReporteAsegurado\DataAsegurado.xss">
+      <DependentUpon>DataAsegurado.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Data\Data.csproj">
+      <Project>{0F69B732-2FE2-452E-AAEB-6782431E6023}</Project>
+      <Name>Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{ab6c7765-0539-4923-b5c0-d4ab9d7127c4}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Seguridad\Seguridad.csproj">
+      <Project>{c11c8e84-afea-4fa8-a938-3c3e3882f259}</Project>
+      <Name>Seguridad</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\options.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\reporte-de-negocios.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\servicio-medico.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\proteger.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Imagenes\perfil-del-usuario %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagenes\archivo-nuevo.png" />
+    <None Include="Imagenes\arrow.png" />
+    <Content Include="Imagenes\asegurado.png" />
+    <Content Include="Imagenes\boton-editar.png" />
+    <Content Include="Imagenes\boton.png" />
+    <Content Include="Imagenes\consulta.png" />
+    <Content Include="Imagenes\edificio-del-hospital.png" />
+    <Content Include="Imagenes\habilitar.png" />
+    <None Include="Imagenes\NFAFI3FJC1MJ52.jpg" />
+    <Content Include="Imagenes\LogoSample_ByTailorBrands.jpg" />
+    <Content Include="Imagenes\politica.png" />
+    <Content Include="Imagenes\poliza-de-seguros.png" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

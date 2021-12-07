@@ -1,0 +1,269 @@
+C:\Users\Usuario\source\repos\View\Data\bin\Debug\Data.dll
+C:\Users\Usuario\source\repos\View\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\source\repos\View\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\View\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\View\Data\obj\Debug\Data.dll
+C:\Users\Usuario\source\repos\View\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Data.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Data.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\obj\Debug\Data.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\obj\Debug\Data.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\snappy32.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\snappy64.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\libzstd.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\mongocrypt.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\DnsClient.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\MongoDB.Bson.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\SharpCompress.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\DnsClient.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\MongoDB.Bson.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\obj\Debug\Data.csproj.CopyComplete
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Seguridad.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Seguridad.pdb
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\stdole.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\Desktop\IV semestre 2021\Base de Datos I\SeguroSAv3\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SeguroSAvFinal\Data\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SeguroSAvFinal\Data\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SeguroSAvFinal\Data\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SeguroSAvFinal\Data\bin\Debug\snappy32.dll
+F:\SeguroSAvFinal\Data\bin\Debug\snappy64.dll
+F:\SeguroSAvFinal\Data\bin\Debug\libzstd.dll
+F:\SeguroSAvFinal\Data\bin\Debug\mongocrypt.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Data.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Data.pdb
+F:\SeguroSAvFinal\Data\bin\Debug\DnsClient.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SeguroSAvFinal\Data\bin\Debug\MongoDB.Bson.dll
+F:\SeguroSAvFinal\Data\bin\Debug\MongoDB.Driver.Core.dll
+F:\SeguroSAvFinal\Data\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Seguridad.dll
+F:\SeguroSAvFinal\Data\bin\Debug\SharpCompress.dll
+F:\SeguroSAvFinal\Data\bin\Debug\System.Buffers.dll
+F:\SeguroSAvFinal\Data\bin\Debug\System.Data.SqlClient.dll
+F:\SeguroSAvFinal\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\SeguroSAvFinal\Data\bin\Debug\System.ValueTuple.dll
+F:\SeguroSAvFinal\Data\bin\Debug\EnvDTE.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\SeguroSAvFinal\Data\bin\Debug\stdole.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Microsoft.MSXML.dll
+F:\SeguroSAvFinal\Data\bin\Debug\Seguridad.pdb
+F:\SeguroSAvFinal\Data\bin\Debug\DnsClient.xml
+F:\SeguroSAvFinal\Data\bin\Debug\MongoDB.Bson.xml
+F:\SeguroSAvFinal\Data\bin\Debug\MongoDB.Driver.Core.xml
+F:\SeguroSAvFinal\Data\bin\Debug\System.Buffers.xml
+F:\SeguroSAvFinal\Data\bin\Debug\System.Data.SqlClient.xml
+F:\SeguroSAvFinal\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\SeguroSAvFinal\Data\bin\Debug\System.ValueTuple.xml
+F:\SeguroSAvFinal\Data\bin\Debug\EnvDTE.xml
+F:\SeguroSAvFinal\Data\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+F:\SeguroSAvFinal\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\SeguroSAvFinal\Data\obj\Debug\Data.csproj.CopyComplete
+F:\SeguroSAvFinal\Data\obj\Debug\Data.dll
+F:\SeguroSAvFinal\Data\obj\Debug\Data.pdb
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\snappy32.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\snappy64.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\libzstd.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\mongocrypt.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Data.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Data.pdb
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\DnsClient.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\MongoDB.Bson.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\MongoDB.Driver.Core.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\MongoDB.Libmongocrypt.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Seguridad.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\SharpCompress.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Buffers.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Data.SqlClient.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.ValueTuple.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\EnvDTE.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\stdole.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Microsoft.MSXML.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\Seguridad.pdb
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\DnsClient.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\MongoDB.Bson.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\MongoDB.Driver.Core.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Buffers.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Data.SqlClient.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\System.ValueTuple.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\EnvDTE.xml
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\SeguroSAvFinal(Completo)\Data\obj\Debug\Data.csproj.AssemblyReference.cache
+F:\SeguroSAvFinal(Completo)\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
+F:\SeguroSAvFinal(Completo)\Data\obj\Debug\Data.csproj.CopyComplete
+F:\SeguroSAvFinal(Completo)\Data\obj\Debug\Data.dll
+F:\SeguroSAvFinal(Completo)\Data\obj\Debug\Data.pdb

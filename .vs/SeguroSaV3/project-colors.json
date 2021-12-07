@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a58cbdcb-bbc9-4a9b-bd36-439b20d79129": {
+      "ProjectGuid": "a58cbdcb-bbc9-4a9b-bd36-439b20d79129",
+      "DisplayName": "View",
+      "ColorIndex": 0
+    },
+    "192c6395-9ca6-461b-9db0-4d0d1ccddefd": {
+      "ProjectGuid": "192c6395-9ca6-461b-9db0-4d0d1ccddefd",
+      "DisplayName": "View2",
+      "ColorIndex": 1
+    },
+    "c6f85501-adca-462b-9816-85a116fa7739": {
+      "ProjectGuid": "c6f85501-adca-462b-9816-85a116fa7739",
+      "DisplayName": "Data",
+      "ColorIndex": 2
+    },
+    "d670ce5a-a5ce-4f27-b90c-090c275615e1": {
+      "ProjectGuid": "d670ce5a-a5ce-4f27-b90c-090c275615e1",
+      "DisplayName": "Model",
+      "ColorIndex": 3
+    },
+    "ab6c7765-0539-4923-b5c0-d4ab9d7127c4": {
+      "ProjectGuid": "ab6c7765-0539-4923-b5c0-d4ab9d7127c4",
+      "DisplayName": "Model",
+      "ColorIndex": 4
+    },
+    "0f69b732-2fe2-452e-aaeb-6782431e6023": {
+      "ProjectGuid": "0f69b732-2fe2-452e-aaeb-6782431e6023",
+      "DisplayName": "Data",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "c11c8e84-afea-4fa8-a938-3c3e3882f259": {
+      "ProjectGuid": "c11c8e84-afea-4fa8-a938-3c3e3882f259",
+      "DisplayName": "Seguridad",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
